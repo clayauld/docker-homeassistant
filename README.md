@@ -239,6 +239,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **18.01.22:** - Rebase to Alpine 3.15.
 * **12.12.21:** - Use the new `build.yaml` to determine HA base version.
 * **25.09.21:** - Use the new lsio homeassistant wheel repo, instead of the HA wheels.
 * **13.09.21:** - Build psycopg locally as the HA provided wheel does not seem to work properly.
